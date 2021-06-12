@@ -9,7 +9,7 @@ tip_cal = tip/100
 total_tip = tip_cal*pay_amount
 total_bill = total_tip + pay_amount
 final_bill = int(total_bill/person)
-print(final_bill)
+print(f"Each person should pay {final_bill}")
 
 
 
