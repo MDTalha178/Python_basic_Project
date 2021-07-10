@@ -4,7 +4,7 @@ print("Welcome to the gussing number")
 print(logo)
 
 computer_thinking = random.randint(1,101)
-print(computer_thinking)
+
 
 Hard_level = 5
 easy_level = 10
